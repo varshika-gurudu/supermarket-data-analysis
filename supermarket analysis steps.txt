@@ -1,0 +1,91 @@
+SALES & PROFIT ANALYSIS BY LANDMARK
+By region
+By states
+SALES &PROFIT ANALYSIS BY SHIP MODES
+SALES & PROFIT ANALYSIS BY PRODUCT DESCRIPTION
+By segmentation
+By category
+By sub-category
+
+ 1.1 Defining the best sales season of the store.
+
+    1.2 What is the average number of products per order?
+
+2. Discuonts Vs Sales analysis.
+3. Sales per year analysis.
+4. Seasons Vs Sales analysis.
+5. Number of products per order analysis.
+6. Customer Segment Vs Sales analysis.
+7. Region Vs Sales analysis.
+8. Product Categorey Vs Sales analysis.
+9. Product Sub-Categorey Vs Sales analysis
+
+
+
+I tried dana analysis to make marketing strategy, which includes
+-Importing and Data Preprocessing
+-Which countries do they have sales?
+All the data are in the United States.
+-Top 20 states by sales
+-Top 20 states by profit
+Two important states are New York and California. New York is more profitable than California.
+-What is the difference between New York and California ?
+Sales and Profit scattering by customers of California
+Sales and Profit scattering by customers of New York
+New York has a outstanding customer which is high sales and profit.
+- What is a outstanding customer in New York?
+'Tom Ashbrook' contributes a lot to high profitability of New York.
+If New York does not have 'Tom Ashbook', their average sales goes down from 749 to 717,and their average profit goes down from 178 to 167.But New York is still more profitable than California.
+- Are there any difference among states in profitability ?
+We can divide states to 'Black Statess' and 'Red States'.
+-Top 20 cities by Sales
+-Top 20 cities by Profit
+
+Contents
+1.Importing Libraries
+
+2.Importing Data
+
+3.Basic EDA
+
+4.Distribution of Numerical Columns
+
+5.Distribution of Categorical Columns
+
+6.Sales with respect to Geographical features
+
+7.Sales with respect to to Product based Features
+
+8.Sales with respect to Service feature
+
+9.Sales with respect to Customer Segment
+
+10.Profit with respect to Geographical features
+
+11.Profit with respect to to Product based Features
+
+12.Profit with respect to Service feature
+
+13.Profit with respect to Customer Segment
+
+14.Number of Products sold with respect to Geographical features
+
+15.Number of Products sold with respect to to Product based Features
+
+16.Number of Products sold with respect to Service feature
+
+17.Number of Products sold with respect to Customer Segment
+
+18.Time Series Analysis of Sales, Profit, Quantity sold
+
+19.Profit vs Sales (scatter plot)
+
+20.Profit vs Sales Across various Features(scatter plot)
+
+21.Sales Distribution Across various Features
+
+22.Profit Distribution Across various Features
+
+
+
+
